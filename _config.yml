@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Position-Based Simulation Methods in Computer Graphics
+description: Tutorials and state-of-the-art reports on Position-Based Dynamics (PBD)
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
